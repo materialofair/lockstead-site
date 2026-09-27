@@ -1,0 +1,24 @@
+# Lockstead
+
+> Choose which apps can open before you lend your iPhone or iPad. Lockstead uses Apple’s Screen Time tools, with a six-digit PIN and no app account.
+
+Official developer-maintained references. Features and prices follow the current App Store release.
+
+## Product
+- [English product facts](https://materialofair.github.io/lockstead-site/product/)
+- [中文产品资料](https://materialofair.github.io/lockstead-site/zh/product/)
+- [Markdown facts](https://materialofair.github.io/lockstead-site/product-facts.md)
+- [App Store](https://apps.apple.com/app/id6791830193)
+- [Public project](https://github.com/materialofair/lockstead-site)
+
+## Guides
+- [How to lock selected apps on iPhone with Lockstead](https://materialofair.github.io/lockstead-site/guides/lock-apps-iphone/)
+- [Prepare your iPhone for a guest with Lockstead](https://materialofair.github.io/lockstead-site/guides/guest-mode-iphone/)
+- [Temporary access and schedules: what to check](https://materialofair.github.io/lockstead-site/guides/temporary-app-access/)
+- [如何用 Lockstead 锁定 iPhone 上的指定应用](https://materialofair.github.io/lockstead-site/zh/guides/lock-apps-iphone/)
+- [借出 iPhone 前如何使用 Lockstead 访客模式](https://materialofair.github.io/lockstead-site/zh/guides/guest-mode-iphone/)
+- [临时放行与每日时间表如何核对](https://materialofair.github.io/lockstead-site/zh/guides/temporary-app-access/)
+
+## Support
+- [Support](https://materialofair.github.io/lockstead-site/support.html)
+- [Privacy policy](https://materialofair.github.io/lockstead-site/privacy.html)

@@ -1,0 +1,216 @@
+{
+  "name": "Lockstead",
+  "kind": "lock",
+  "root": ".",
+  "base": "https://materialofair.github.io/lockstead-site",
+  "app": "6791830193",
+  "repo": "https://github.com/materialofair/lockstead-site",
+  "privacy": "https://materialofair.github.io/lockstead-site/privacy.html",
+  "ios": "17.0",
+  "demo": [
+    1242,
+    2687
+  ],
+  "en": {
+    "title": "App lock for iPhone & iPad with Screen Time",
+    "headline": "Hand over your phone. Keep control of your apps.",
+    "lead": "Choose which apps can open before you lend your iPhone or iPad. Lockstead uses Apple’s Screen Time tools, with a six-digit PIN and no app account.",
+    "caption": "Actual app interface. This setup screen shows protection off; choose an app and enable protection before handing over the device.",
+    "kicker": "APP ACCESS, ON YOUR TERMS",
+    "features": [
+      [
+        "Choose. Lock. Check.",
+        "Block selected apps from opening, then verify the restriction on the same device."
+      ],
+      [
+        "Access for the moment",
+        "Use temporary access and daily schedules. VIP includes Guest Mode and allow-only or category rules."
+      ],
+      [
+        "Private by design",
+        "Your PIN and protection configuration stay on-device. No developer account, analytics SDK or usage-data upload."
+      ]
+    ],
+    "price": "Core protection for one selected app is free. VIP adds multi-app management and advanced features. Choose monthly, yearly or lifetime purchase options; subscriptions renew automatically unless canceled. Check the App Store for current local prices.",
+    "boundary": "Screen Time authorization is required. Locking restricts app opening; it does not promise to hide icons, suppress notifications or encrypt another app’s files. Background rule changes can be delayed by iOS. Verify protection on a physical device.",
+    "facts": [
+      [
+        "Product",
+        "Lockstead — App Store ID 6791830193."
+      ],
+      [
+        "Purpose",
+        "On-device app access control for the iPhone or iPad you lend to a child, friend or family member."
+      ],
+      [
+        "Platform",
+        "iPhone and iPad, iOS / iPadOS 17.0 or later, with Screen Time authorization."
+      ],
+      [
+        "Core controls",
+        "Selected-app blocking, six-digit PIN, temporary access and daily schedules."
+      ],
+      [
+        "VIP",
+        "Multi-app management, advanced rules, Guest Mode, app-removal controls and personalization. Monthly, yearly and lifetime options are offered."
+      ],
+      [
+        "Privacy",
+        "No app account or developer backend. Protection settings remain local; purchases use Apple services."
+      ],
+      [
+        "Limits",
+        "Not a remote management service. Does not guarantee notification suppression or icon hiding. iOS may delay background changes."
+      ],
+      [
+        "Public resources",
+        "The public lockstead-site repository hosts product and support information. The app source is private."
+      ]
+    ],
+    "guides": [
+      [
+        "lock-apps-iphone",
+        "How to lock selected apps on iPhone with Lockstead",
+        "Choose an app, enable protection and verify the restriction before lending your device.",
+        "Lockstead uses Apple’s Screen Time technologies to restrict selected apps from opening on the same iPhone or iPad. A six-digit PIN protects access to its settings.",
+        [
+          "Install Lockstead and set a PIN that only the device manager knows.",
+          "Grant the requested Screen Time authorization. Without authorization, restrictions cannot be applied.",
+          "Choose the app you want to protect. Core protection for one selected app is free.",
+          "Enable Lock and confirm the protection status in Lockstead.",
+          "Try opening the protected app on the device. Confirm the block appears before handing the device to someone else."
+        ],
+        "An app lock is an access restriction, not encryption of another app’s files. Do not assume it removes the app’s icon or hides notifications. The restrictions depend on current system authorization and device behavior."
+      ],
+      [
+        "guest-mode-iphone",
+        "Prepare your iPhone for a guest with Lockstead",
+        "Use VIP Guest Mode and verify which apps remain available before handing over your phone.",
+        "Guest Mode is intended for lending the same device to someone else. With VIP, choose the apps the guest may use and restrict other apps during the session.",
+        [
+          "Open Lockstead and authenticate with your PIN or configured biometrics.",
+          "Choose the apps the guest should be able to use, keeping the list limited to the purpose of the handoff.",
+          "Start Guest Mode and inspect its status and duration.",
+          "Check both an allowed app and a blocked app before lending the device.",
+          "When the session ends, open Lockstead and verify that the expected protection rules have returned."
+        ],
+        "Guest Mode is a same-device workflow, not remote supervision of another phone. Some system behavior is outside an app’s control. Keep the manager PIN private and check protection rather than relying only on a timer."
+      ],
+      [
+        "temporary-app-access",
+        "Temporary access and schedules: what to check",
+        "Understand how timed access and daily protection interact with iOS background scheduling.",
+        "Temporary access provides a period in which protected apps may be opened. Daily schedules can apply protection during a chosen window. Check the current rule and the actual device behavior at each transition.",
+        [
+          "Review the apps currently selected and whether protection is active.",
+          "Start temporary access for the time needed, or configure the daily protection window.",
+          "Confirm that an app expected to open is available during the allowed period.",
+          "At the end of the period, verify that the expected restriction has returned.",
+          "If behavior differs, open Lockstead, check Screen Time authorization and inspect the active settings before relying on the rule."
+        ],
+        "iOS controls background scheduling and may delay a rule change. Do not treat expiry as a guaranteed second-by-second boundary. This guide describes currently published core workflows, not unreleased multi-window scheduling features."
+      ]
+    ]
+  },
+  "zh": {
+    "title": "基于屏幕使用时间的 iPhone 与 iPad 应用锁",
+    "headline": "手机可以借。应用由你决定。",
+    "lead": "把 iPhone 或 iPad 交给他人前，选择允许打开的应用。Lockstead 使用 Apple 屏幕使用时间能力，以六位 PIN 保护设置，无需注册应用账号。",
+    "caption": "真实应用界面。图中为未开启保护的设置状态；借出设备前请先选择应用并开启保护。",
+    "kicker": "掌握设备上的应用访问",
+    "features": [
+      [
+        "选择、上锁、验证",
+        "阻止选中的应用启动，并在同一台设备上实际检查拦截。"
+      ],
+      [
+        "按场景临时放行",
+        "支持临时访问与每日时间窗口，VIP 包含访客模式、仅允许与类别规则。"
+      ],
+      [
+        "设置留在本机",
+        "PIN 与保护配置保存在设备上，无开发者账号、分析 SDK 或使用数据上传。"
+      ]
+    ],
+    "price": "免费提供 1 个所选应用的核心保护，VIP 增加多应用管理与高级功能。提供月度、年度订阅与终身购买选项；订阅会自动续期，除非主动取消。当前价格以当地 App Store 为准。",
+    "boundary": "需要屏幕使用时间授权。锁定限制应用打开，不保证隐藏图标、抑制通知或加密其他应用文件。iOS 可能延迟后台规则切换，请在真机核对保护效果。",
+    "facts": [
+      [
+        "产品",
+        "Lockstead，App Store ID 6791830193。"
+      ],
+      [
+        "用途",
+        "将自己的 iPhone 或 iPad 借给孩子、朋友或家人前，在本机控制应用访问。"
+      ],
+      [
+        "平台",
+        "iPhone 与 iPad，需要 iOS / iPadOS 17.0 或更新版本及屏幕使用时间授权。"
+      ],
+      [
+        "核心功能",
+        "所选应用阻止启动、六位 PIN、临时访问与每日时间窗口。"
+      ],
+      [
+        "VIP",
+        "多应用管理、高级规则、访客模式、应用移除控制与个性化，提供月度、年度及终身方案。"
+      ],
+      [
+        "隐私",
+        "无需应用账号或开发者后端，配置保留在本地，购买使用 Apple 服务。"
+      ],
+      [
+        "边界",
+        "不是远程设备管理服务，不保证抑制通知或隐藏图标，iOS 可能延迟后台切换。"
+      ],
+      [
+        "公开资料",
+        "公开的 lockstead-site 仓库提供产品与支持资料，应用源码为私有。"
+      ]
+    ],
+    "guides": [
+      [
+        "lock-apps-iphone",
+        "如何用 Lockstead 锁定 iPhone 上的指定应用",
+        "选择应用、开启保护并在借出设备前验证拦截。",
+        "Lockstead 使用 Apple 屏幕使用时间能力，限制同一台 iPhone 或 iPad 上所选应用的打开，并以六位 PIN 保护设置。",
+        [
+          "安装 Lockstead，设置仅设备管理者知道的 PIN。",
+          "授予所需屏幕使用时间权限，没有授权就不能应用限制。",
+          "选择需要保护的应用，单个所选应用的核心保护免费。",
+          "开启锁定，确认 Lockstead 显示的保护状态。",
+          "在设备上尝试打开被保护的应用，确认出现拦截后再交给他人。"
+        ],
+        "应用锁控制的是访问，不是给其他应用的文件加密。不要假设它会移除图标或隐藏通知。限制效果依赖当前授权状态和设备行为。"
+      ],
+      [
+        "guest-mode-iphone",
+        "借出 iPhone 前如何使用 Lockstead 访客模式",
+        "用 VIP 访客模式选择可用应用，并核对允许与阻止效果。",
+        "访客模式用于把同一台设备暂时借给别人。VIP 用户可以选择访客可用的应用，在访问期间限制其他应用。",
+        [
+          "打开 Lockstead，以 PIN 或已配置的生物识别认证。",
+          "选择访客需要使用的应用，将清单限制在本次借用用途内。",
+          "启动访客模式，检查状态与时长。",
+          "借出前分别测试一个允许应用和一个被阻止应用。",
+          "访问结束后重新打开 Lockstead，核对预期保护规则已恢复。"
+        ],
+        "访客模式是本机流程，不是远程监管另一台手机。某些系统行为不受应用控制。保管好管理 PIN，通过实际检查确认保护，不要只依赖倒计时。"
+      ],
+      [
+        "temporary-app-access",
+        "临时放行与每日时间表如何核对",
+        "了解限时访问、每日窗口与 iOS 后台调度的关系。",
+        "临时访问允许在一段时间内打开受保护应用，每日时间表则可在指定窗口启用保护。每次切换时都应检查当前规则与真机表现。",
+        [
+          "查看当前所选应用与保护是否开启。",
+          "按需要启动临时访问，或设置每日保护时间窗口。",
+          "在允许时段确认预期应用确实可以打开。",
+          "时段结束后核对预期限制已经恢复。",
+          "若表现不符，打开 Lockstead 检查屏幕使用时间授权和当前设置，再决定是否依赖该规则。"
+        ],
+        "后台调度由 iOS 控制，规则变化可能延迟，不能承诺精确到秒。本指南描述已发布的基础流程，不把开发中的多时间窗口功能当作现有能力。"
+      ]
+    ]
+  }
+}
