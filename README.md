@@ -25,6 +25,7 @@ No app account, developer backend, advertising SDK or analytics SDK is required.
 
 ## Guides and product facts
 
+- [Choose a lending setup and check before handing over your phone](https://lockstead.siproducers.com/compare/#handoff): single-app Guided Access, supported native app lock, multi-app VIP sessions, and their limits. [中文场景选择与交机检查](https://lockstead.siproducers.com/zh-hans/compare/#handoff).
 - [App lock on iPhone without an app account](https://lockstead.siproducers.com/guides/app-lock-iphone-no-account/)
 - [Everyday privacy and lending your phone](https://lockstead.siproducers.com/guides/real-life-privacy/)
 - [Product facts](https://lockstead.siproducers.com/product/)
